@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>legacyfix2</id>
+  <name>legacyfix2</name>
+  <description>Fix bahman legacy redirects with root chmod</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>local</vendor>
+</module>
